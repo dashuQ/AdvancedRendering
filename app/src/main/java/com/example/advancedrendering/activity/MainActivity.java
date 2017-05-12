@@ -17,6 +17,13 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
+作业：
+ 水波纹效果
+
+ 倒影图片
+
+ 雷达效果
+
  * 参考文章：
 http://blog.csdn.net/t12x3456/article/details/10711779
 
