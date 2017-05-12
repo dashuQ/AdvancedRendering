@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdvancedRendering</string>
+    <string name="test1">RadialGradient----环形渲染——水波纹效果</string>
+    <string name="test2">LinearGradient--线性渲染——倒影图片</string>
+    <string name="test3">SweepGradient----渐变渲染/梯度渲染——雷达效果</string>
+
+</resources>
